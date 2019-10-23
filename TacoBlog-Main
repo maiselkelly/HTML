@@ -1,0 +1,52 @@
+//HTML Code for Taco Blog
+
+<!DOCTYPE html>
+<html lang = “en”>
+<head>
+<title> Best Places to get Tacos!</title>
+<link rel="icon" href="images/favicon.ico" type="favicon">
+<meta charset=“utf-8”>
+<link rel="stylesheet" href="Tacos.css">
+</head>
+
+<body>
+<div id="webpage">
+<header>
+<h1>The Best Places to get Tacos!</h1>
+</header>
+
+<nav> 
+<a href="Tacos.html">Home</a> &nbsp; 
+<a href="Chipotle.html">Chipotle</a> &nbsp; 
+<a href="Condado.html">Condado</a> &nbsp; 
+<a href="Mexican Village.html">Mexican Village</a> &nbsp;
+</nav>
+<img src="images/tbell.jpeg" width="100%" alt="TacoBell" />
+
+<div><div id="home"></div>
+
+<main>
+<h2>What do <em>you</em> look for in finding the perfect taco?</h>
+<h3> Is it... </h3>
+<ul>
+<li>How <b>juicy</b> the meat is inside?</li>
+<br>
+<li>The amount of <i>veggies</i> on top?</li>
+<br>
+<li>If <b>guacamole</b> is an option?</li>
+<br>
+<li>Or, <i>simply</i> the atmosphere of the restaurant?</li>
+</ul>
+<br>
+<blockquote>Whatever it may be that brings yourself here reading about delicious tacos, we have answers for you! Tacos are the world's greatest food group, and naturally deserve the spotlight.
+<br>
+<img src="images/dancingtaco.gif" alt="Dancing Taco">
+</main>
+<footer>
+	<small>Copyright &copy; 2019 Kelly Loves Tacos</small>
+<br>
+	<a href="mailto: Kellymaisel@gmail.com">Kellymaisel@gmail.com</a>
+</footer>
+</div>
+</body>
+</html>
