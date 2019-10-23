@@ -1,0 +1,93 @@
+//CSS code for Taco Blog
+
+body {background-color: #FEB435; 
+	color: #010000; 
+	font-family: Verdana, Arial, sans-serif;
+	background-image: url("images/icon.png");
+	background-repeat: repeat-y repeat-x;
+	}
+
+h1 {text-align: center;
+margin-bottom: 0;
+    background-color: #FEAE46; 
+    background-image: url("images/tacos.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    height: 72px; 
+      color: #FEFEFE; 
+      font-family: Georgia, sans-serif; 
+      line-height: 200%;
+	opacity: 0.9;
+	border: 2px dashed;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;}
+
+
+
+nav {text-align: center;
+background-color: #FEB435;
+       font-weight: bold;
+       padding: 5px;
+	border-bottom: 2px dashed
+	}
+
+
+h2 {color: #010000;
+      font-family: Georgia, sans-serif;}
+
+h3{color: #010000;}
+
+main{padding-left: 20px;
+     padding-right: 20px;
+     display:block;} 
+
+dt {color: #010000;
+    font-weight: bold;}
+
+
+footer {text-align: center;
+color: #FEFEFE;
+	font-size: .70em;
+           font-style: italic;
+          margin-left: auto;
+          margin-right: auto;
+	  padding: 10px;
+	  background-image: url("images/tacos.png")}
+
+
+#webpage {background-color: #ffffff;
+	  min-width: 700px;
+	  max-width: 1024px;
+	  box-shadow: 5px 5px;
+	  margin-left: auto;
+	  margin-right: auto;
+          width: 80%} 
+
+#home {height: 30px;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+	  background-color: #000000;}
+
+#chipotle {height: 30px;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+	  background-color: #000000}
+
+#condado {height: 30px;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+	  background-color: #000000}
+
+#mexicanvillage {height: 30px;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+	background-color: #000000}
+
+div.chipotle1 {content:url("images/chipotle1.png");
+	       height: 200px;
+	       width: 300px;}
+
+
+nav a{text-decoration: none;}
